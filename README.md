@@ -3,7 +3,7 @@
 ## Environment
 * Mac
 * Python 3.7.5
-** Anaconda
+**Anaconda
 * SQLite
 
 ## How I got started
